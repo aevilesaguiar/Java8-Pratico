@@ -1,4 +1,4 @@
-# Java8-Pratico
+# Java8-Pratico - Casa do Código
 
 Lambdas, Streams e os novos recursos da linguagem. Livro casa do Código - Rodrigo Turim - Casa do Código
 
