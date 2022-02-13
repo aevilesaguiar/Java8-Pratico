@@ -39,7 +39,3 @@ Essa anotação serve apenas para que ninguém torne aquela interface em não-fu
 Interfaces funcionais são o coração do recurso de Lambda. O Lambda por si só não existe, e sim expressões lambda, quando atribuídas/inferidas a uma interface funcional. Durante o desenvolvimento do Java 8, o grupo que tocou o Lambda chamava essas interfaces de SAM Types (Single Abstract Method);
 
 Se uma interface funcional não está envolvida, o compilador não consegue trabalhar com ela;
-
-pagina 26
-
-https://drive.google.com/drive/folders/1kn3nTU9BHQ3RRTStvwXb6BljcvsFdsTf
